@@ -1,4 +1,14 @@
+body{
+    background-color: #EEE6CE;
+}
+
 #bg-titulo {
     background-color: #2EB086;
     color: #EEE6CE;
+}
+
+img 
+{
+   width: 100%;
+   height: auto;
 }
